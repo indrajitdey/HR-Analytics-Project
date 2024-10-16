@@ -1,4 +1,6 @@
 # HR Analytics Dashboard - Employee Attrition Prediction
+![Screenshot 2024-10-16 171516](https://github.com/user-attachments/assets/28ddea4a-292c-43e2-813a-38e53763b9f7)
+
 ## Problem Statement
 Employee attrition is a significant concern for organizations, especially when the cost of replacing and training new employees is high. Predicting which employees are likely to leave the company helps in proactive decision-making and retention strategies. The goal of this project is to analyze employee data and predict factors contributing to attrition, allowing businesses to develop targeted interventions to reduce turnover.
 
